@@ -1,0 +1,184 @@
+Que es Docker,1,EST,P
+a),Es una herramienta para virtualizar maquinas,0,R
+b),Es una tecnolog?a de contenedorizaci?n ligera de c?digo abierto,1,R
+c),Es un lenguage de programacion cliente/servidor,0,R
+d),Es una herramienta para administrar servidores,0,R
+Cuales son las ventajas de utilizar Docker,1,EST,P
+a),Docker no permite una configuraci?n sencilla e interact?a con Docker Compose,0,R
+b),Permite describir el ciclo de vida de una aplicaci?n al detalle,1,R
+Cuales son las caracter?sticas importantes de Docker,1,EST,P
+a),Docker ofrece una configuraci?n inicial eficiente y sencilla,0,R
+b),Permite Control de versiones,1,R
+c),La documentaci?n te proporciona toda la informaci?n necesaria,0,R
+Cuales son los principales inconvenientes de Docker,1,EST,P
+a),Permite Control de versiones,0,R
+b),Configuraci?n complicada de escalado horizontal automŠtico,1,R
+c),Permite describir el ciclo de vida de una aplicaci?n al detalle,0,R
+Qu? es una imagen de Docker,1,EST,P
+a),Es una herramienta para virtualizar maquinas,0,R
+b),Es un contenedor que se inicia cuando comienza a ejecutarse,1,R
+c),Es una herramienta para administrar servidores,0,R
+Qu? comando deber?a ejecutar para ver todos los contenedores en ejecuci?n en Docker,1,EST,P
+a),$ sudo docker stop nombre contenedor,0,R
+b),$ docker ps,1,R
+c),$ sudo docker run -i -t alpine /bin/bash,0,R
+CuŠl es el comando para detener un contenedor de Docker,1,EST,P
+a),$ docker ps,0,R
+b),$ sudo docker stop nombre contenedor,1,R
+c),$ sudo docker run -i -t alpine /bin/bash,0,R
+Qu? es Docker Hub,1,EST,P
+a),Es un contenedor que se inicia cuando comienza a ejecutarse,0,R
+b),Docker Hub es un registro basado en la nube que le ayuda a enlazar con repositorios de c?digo,1,R
+c),Es una herramienta para administrar servidores,0,R
+Qu? comando deber?a ejecutar para eliminar los contenedores Docker,1,EST,P
+a),$ sudo docker stop nombre contenedor,0,R
+b),$ sudo docker rm nombre contenedor,1,R
+c),$ sudo docker run -i -t alpine /bin/bash,0,R
+Qu? comando deber?a ejecutar para listar las imŠgenes de Docker,1,EST,P
+a),$ sudo docker stop nombre contenedor,0,R
+b),$ sudo docker images,1,R
+c),$ sudo docker run -i -t alpine /bin/bash,0,R
+Cómo hago para ver los archivos del directorio anterior,1,EST,P
+a),$ ls,0,R
+b),$ ls ../,1,R
+c),$ ls -a,0,R
+Cómo sé en qué directorio estoy,1,EST,P
+a),$ whoami,0,R
+b),$ pwd,1,R
+c),$ su -,0,R
+Cómo veo los archivos en un directorio,1,EST,P
+a),$ whoami,0,R
+b),$ ls,1,R
+c),$ su -,0,R
+Cómo puedo crear archivos en Unix,1,EST,P
+a),$ mkdir,0,R
+b),$ touch,1,R
+c),$ su -,0,R
+Cómo puedo crear uno o varios directorios,1,EST,P
+a),$ touch,0,R
+b),$ mkdir,1,R
+c),$ su -,0,R
+Cómo se quin soy,1,EST,P
+a),$ touch,0,R
+b),$ whoami,1,R
+c),$ su -,0,R
+Con qué comando se monitorea la memoria,1,EST,P
+a),$ touch,0,R
+b),$ top,1,R
+c),$ su -,0,R
+Cómo puedo ver el contenido de un archivo sin abrirlo,1,EST,P
+a),$ touch,0,R
+b),$ cat,1,R
+c),$ su -,0,R
+Qué comando reinicia el equipo,1,EST,P
+a),$ restart,0,R
+b),$ reboot,1,R
+c),$ su -,0,R
+Comando para apagar mi ordenador,1,EST,P
+a),$ restart,0,R
+b),$ shutdown -h,1,R
+c),$ su -,0,R
+Cómo borro la pantalla,1,EST,P
+a),$ erase,0,R
+b),$ clear,1,R
+c),$ who,0,R
+Cómo sé los usuarios conectados a mi máquina,1,EST,P
+a),$ erase,0,R
+b),$ who,1,R
+c),$ cat,0,R
+Cómo puedo obtener información detallada de un comando,1,EST,P
+a),$ erase,0,R
+b),$ man ,1,R
+c),$ cat,0,R
+Donde se escriben los comandos,1,EST,P
+a),$ shell,0,R
+b),$ promt,1,R
+c),$ terminal,0,R
+Cómo borrar directorios con todos sus archivos dentro,1,EST,P
+a),$ rm,0,R
+b),$ rm -r,1,R
+c),$ rmi,0,R
+Cómo averiguar la cantidad de disco utilizado,1,EST,P
+a),$ du,0,R
+b),$ Du,1,R
+c),$ df -h,0,R
+Cómo puedo matar un proceso,1,EST,P
+a),$ restart,0,R
+b),$ kill,1,R
+c),$ rm,0,R
+Cómo se que versión del kernel tengo,1,EST,P
+a),$ restart,0,R
+b),$ uname -r,1,R
+c),$ rm,0,R
+Cómo se le llama al intérprete de comandos,1,EST,P
+a),$ terminal,0,R
+b),$ bash,1,R
+c),$ shell,0,R
+Cómo ver lo que hacen los usuarios que están conectados en la red,1,EST,P
+a),$ terminal,0,R
+b),$ w,1,R
+c),$ shell,0,R
+Dónde se guardan los archivos de configuración del sistema,1,EST,P
+a),$ /var,0,R
+b),$ /etc,1,R
+c),$ /root,0,R
+Cómo diferencio entre ruta absoluta y ruta relativa,1,EST,P
+a),Si hay una ./ delante de la ruta,0,R
+b),Si hay una / delante de la ruta,1,R
+c),Si hay una ../ delante de la ruta,0,R
+Dónde se guardan los archivos de usuario,1,EST,P
+a),$ /var,0,R
+b),$ /home,1,R
+c),$ /root,0,R
+Como puedo ver los detalles de un archivo,1,EST,P
+a),$ ls,0,R
+b),$ ls -i,1,R
+c),$ ls -a,0,R
+De que forma puedo crear,,1,EST
+a),$ df,0,R
+b),$ fdisk,1,R
+c),$ df -h,0,R
+Cómo puedo buscar la ubicación de un comando determinado,1,EST,P
+a),cat comando,0,R
+b),whereis comando,1,R
+c),help comando,0,R
+Cómo borro un directorio,1,EST,P
+a),$ rm,0,R
+b),$ rmdir,1,R
+c),$ rmi,0,R
+Cómo visualizo la fecha y hora del sistema,1,EST,P
+a),comando data,0,R
+b),comando date,1,R
+c),comando fecha,0,R
+Qué significa ./ ,1,EST,P
+a),directorio anterior,0,R
+b),directorio actual,1,R
+c),directorio raiz,0,R
+Qué significa ../,1,EST,P
+a),directorio actual,0,R
+b),directorio anterior,1,R
+c),directorio raiz,0,R
+Qué es una consola,1,EST,P
+a),Es donde se crea un script,0,R
+b),Es un intérprete de comandos,1,R
+c),Es en donde ingresamos los comandos ,0,R
+Qué hace el comando echo,1,EST,P
+a),Es donde se crea un script,0,R
+b),Muestra los argumentos por pantalla,1,R
+c),Es en donde ingresamos los comandos ,0,R
+Cómo sé cual es el nombre de la máquina en la que estoy conectado,1,EST,P
+a),$ rm,0,R
+b),$ uname -n,1,R
+c),$ rmi,0,R
+Cómo hago para copiar archivo1 a archivo2 que está en el directorio dir,1,EST,P
+a),$ cd archivo1 ./dir/,0,R
+b),$ cp archivo1 ./dir/,1,R
+c),$ rm archivo1 ./dir/,0,R
+Cómo sé cuantas líneas tiene un archivo,1,EST,P
+a),$ cp -l,0,R
+b),$ wc -l,1,R
+c),$ cp archivo1 ./dir/,0,R
+Cambiar el nombre de un archivo,1,EST,P
+a),$ cp archivo_nuevo.txt archivo_viejo.txt,0,R
+b),$ mv archivo_nuevo.txt archivo_viejo.txt,1,R
+c),$ rm archivo_nuevo.txt archivo_viejo.txt,0,R
